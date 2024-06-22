@@ -5,7 +5,7 @@
 
 
 
-importantance of movement from ethereum to starknet
+importance of movement from Ethereum to starknet
 
 - bridges are essential in this transition - but maybe loss of funds which transfer or can't find better opportunity of 
 - solution using storage api to prove - lending, locked assets bridging
